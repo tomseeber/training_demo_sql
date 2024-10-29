@@ -1,7 +1,7 @@
 # Pre-Work
 
 * [Install Postgres SQL](https://www.postgresql.org/download/)
-
+* [install Azure Data Studio](https://azure.microsoft.com/en-ca/products/data-studio)
 
 # Learning Objectives 
 
