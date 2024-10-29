@@ -5,22 +5,26 @@
 
 # Learning Objectives 
 
-* WHY SQL
-    52.9% of data analyst job postings
-    VAST AMOUNT OF SYSTEMS USE SQL
+* Understanding the why learn SQL
 * Utilize select statements
     * choosing columns
+    * calculated columns
 * Utilize where clauses
     * Filtering rows
-* Utilize inner join to create a subtable
-* Group By 
+* Utilize inner join
+* Basic Sorting through order by
+* Group By and having
 * Aggregation and questions.
     * Count
     * Min
     * Max
     * Average
-    * BASIC CALCULATIONS
+
 
 # Making it Real
+
+Try to answer the following questions?
+
 * Who is the oldest person getting getting treatments?
 * Who is the youngest person getting treatments?
+* How many appointments did the oldest person have? 
